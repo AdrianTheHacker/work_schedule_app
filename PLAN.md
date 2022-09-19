@@ -29,7 +29,7 @@ Last Updated: September 18, 2022
 - Allow users to create work schedule blocks
 
 ### Similar Projects
-> 1. (stocks_app)[https://github.com/AdrianTheHacker/stocks_app]
+> 1. [stocks_app](https://github.com/AdrianTheHacker/stocks_app)
     - Displays the prices of:
         - Bitcoin
         - Etherium
