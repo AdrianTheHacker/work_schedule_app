@@ -1,0 +1,48 @@
+:root {
+    --background-beige: #c6c5b9ff;
+    --div-salmon: #e65f5cff;
+    --button-blue: #444865ff;
+
+    background-color: var(--background-beige);
+}
+
+#content-block {
+    background-color: var(--div-salmon);
+
+    margin: auto;
+    margin-top: 70px;
+
+    width: 500px;
+    height: 500px;
+
+    border-radius: 15px;
+}
+
+h1, #coin-table {
+    margin: auto;
+    width: 70%;
+
+    padding: 10px;
+}
+
+#control-box {
+    margin: auto;
+    width: fit-content;
+    height: fit-content;
+
+    padding: 10px;
+}
+
+.button {
+    background-color: var(--button-blue);
+    border: none;
+    padding: 20px;
+    display: inline-block;
+    font-size: 16px;
+    width: 50px;
+    height: 50px;
+}
+
+.move-forward {
+    margin-right: 10px;
+}
